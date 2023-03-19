@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+*{
+    text-align: center;
+    background-color:#353A40;
+    color: #4BBF94;
+   
+}
+
+h1{
+    font-family: "Sofia", sans-serif;
+    font-size: 6rem;
+    
+}
+.container{
+    
+    font-family: 'Dancing Script', cursive;
+    align-items: center;
+    font-size: 2rem;
+}
+
+.row{
+    margin:2px 30px;
+    display: inline-block;
+}
+
+
